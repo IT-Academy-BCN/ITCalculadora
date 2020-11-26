@@ -25,7 +25,7 @@ var festius2021 = ['2021-01-01','2021-01-04','2021-01-05','2021-01-06','2021-01-
 
 var festius2022 = ['2022-01-03','2022-01-04','2022-01-05','2022-01-06'];
 
-var festius_totals = festius2018.concat(festius2019, festius2020);
+var festius_totals = festius2018.concat(festius2019, festius2020,festius2021,festius2022);
 
 (function ompleAgosts() 
 {
